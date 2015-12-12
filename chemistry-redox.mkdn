@@ -4,25 +4,7 @@ Oxidation is defined as the addition of electronegative elements like oxygen and
 
 Reduction is defined as the removal of electronegative elements like oxygen and addition of electropositive elements like hydrogen to a substance.
 
-### Oxidation Number Method
-
-1. The total increase in oxidation number should be equal to the total decrease in oxidation number.
-2. Mass balance - There should be same number of atoms of each kind in reactant and products.
-3. Charge Balance - Sum of actual charges on both sides of the equation must equal each other
-4. Acidic Medium - For one excess oxygen atom add a water molecule on the other side and 2 H+ on the side of excess O2.
-5. Alkaline Medium - For one excess oxygen atom add 1 water molecule on the same side and OH- on the other.
-   In case Hydrogen are still unbalanced, for each extra Hydrogen atom add one OH- on that side, 1 water on the other side.
-
-
-### Half Reaction Method
-
-1. Write down the oxidation and reduction reactions separately and completely balance them.
-2. The number of electrons gained or lost in each half reaction must be equalized.
-3. Finally the half reactions are added to get the overall balanced equation.
-4. The number of oxygen atoms is balanced as mentioned earlier.
-
-
-### Oxidation Number
+## Oxidation Number
 
 It denotes the oxidation state of an element in a compound ascertained according to a set of rules formulated on the basis that
 electron pair in a covalent bond belongs entirely to the more electronegative element.
@@ -45,12 +27,39 @@ The above rules help us to find out the oxidation number of the desired element/
 It is clear that metallic elements have positive oxidation number, whereas non-metallic have either positive or negative.
 The atoms of the transition elements generally have varying oxidation number.
 The highest oxidation number for a representative element is the group number || group minus 10 for group 13 onwards.
-So, the highest value of oxidation number
+So, the highest value of oxidation number generally exhibited by an atom increases across a period from left to right.
+
+Oxidation state is commonly used interchangeably with oxidation number.
+The oxidation state of an element denotes its oxidation state in a compound.
+
 
 ### Summary
 
 1. Oxidation: An increase in the oxidation number of the element in the given substance.
 2. Reduction: A decrease in the oxidation number of the element in the given substance.
-3. Oxidizing agent:  A reagent which can increase the oxidation number of an element in a given substance.                  These reagents are also called oxidants.
-4. Reducing agents: A reagent which lowers the oxidation number of an element in a given substance.             These reagents are also called reductants.
+3. Oxidizing agent:  A reagent which can increase the oxidation number of an element in a given substance.
+   These reagents are also called oxidants.
+4. Reducing agents: A reagent which lowers the oxidation number of an element in a given substance.
+   These reagents are also called reductants.
 5. Redox reactions: Reactions which involve change in oxidation number of the interacting species.
+
+---
+
+### Balancing a Redox Reaction
+
+#### Oxidation Number Method
+
+1. The total increase in oxidation number should be equal to the total decrease in oxidation number.
+2. Mass balance - There should be same number of atoms of each kind in reactant and products.
+3. Charge Balance - Sum of actual charges on both sides of the equation must equal each other
+4. Acidic Medium - For one excess oxygen atom add a water molecule on the other side and 2 H+ on the side of excess O2.
+5. Alkaline Medium - For one excess oxygen atom add 1 water molecule on the same side and OH- on the other.
+   In case Hydrogen are still unbalanced, for each extra Hydrogen atom add one OH- on that side, 1 water on the other side.
+
+
+#### Half Reaction Method
+
+1. Write down the oxidation and reduction reactions separately and completely balance them.
+2. The number of electrons gained or lost in each half reaction must be equalized.
+3. Finally the half reactions are added to get the overall balanced equation.
+4. The number of oxygen atoms is balanced as mentioned earlier.
