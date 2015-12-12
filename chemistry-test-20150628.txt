@@ -1,0 +1,37 @@
+28th June, 2015
+Chemistry
+NCERT - Part I
+
+Chapter 1
+Laws Of Chemical Combination:-
+
+-Law Of Conservation Of Mass
+It states that matter can neither be created nor destroyed.
+<Antoine Lavoisier (1789)>
+
+-Law Of Definite Proportions aka Law Of Definite Composition
+It states that a given compound always contains exactly the same proprotion of elements by weight.
+<Joseph Proust>
+He took 2 samples of CuCO3, synthetic and natural.
+Both had exactly the same amounts of Cu, O, and C.
+
+-Law Of Multiple Proportions
+If two elements can combine to form more than one compound, the masses of one element that combine with a fixed mass of the other element, are in a whole number ratio.
+<Dalton (1803)>
+Example
+Hydrogen (2g) + Oxygen (16g) ---> Water (18g)
+Hydrogen (2g) + Oxygen (32g) ---> Hydrogen Peroxide (34g)
+
+Mass of Hydrogen remains constant, and Oxygen is in whole number ratio 1:2.
+
+-Gay Lussac's Law Of Combining Volumes
+When gases combine they do so in volumes that bear a simple whole number ratio to one another and to the products, if gaseous, provided that the temperature and pressure of the reacting gases remains constant.
+<Gay Lussac (1808)>
+
+-Avogadro's Law
+Equal volumes of all gases contain the same number of molecules under the same conditions of temperature and pressure.
+<Lorenzo Romano Amedeo Carlo Avogadro di Quarega edi Carreto (1811)>
+
+He made a distinction between molecules and atoms that is quite undestandable in the modern times.
+If we see the reaction of Hydrogen and Oxygen to give water, 2 volumes of Hydrogen react with 1 volume of Oxygen to give 2 volumes of water, leaving no unreacted Oxygen.
+He explained this by considering the molecules to be polyatomic, as known now (diatomic). However, at that time, noone believed that atoms of the same kind could combine to form a molecule.
