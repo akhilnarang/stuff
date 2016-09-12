@@ -1,0 +1,7 @@
+# Mohr's Salt
+
+## Equations
+#### Molecular
+###### 1. 2KMnO<sub>4</sub> + 3H<sub>2</sub>SO<sub>4</sub> ----> K<sub>2</sub>SO<sub>4</sub> + 2MnSO<sub>4</sub> + 3H<sub>2</sub>O + 5[O]
+###### 2. 2FeSO<sub>4</sub>(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>.6H<sub>2</sub>O + H<sub>2</sub>SO<sub>4</sub> + [O] ----> Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> + 13H<sub>2</sub>O x5
+###### 2KMnO<sub>4</sub> + 8H<sub>2</sub>SO<sub>4</sub> + 10FeSO<sub>4</sub>(NH<sub>4</sub>)<sub>2</sub>.SO<sub>4</sub>.6H<sub>2</sub>O ----> K<sub>2</sub>SO<sub>4</sub> + 2MnSO<sub>4</sub> + 5Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 10(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> + 68H<sub>2</sub>O
