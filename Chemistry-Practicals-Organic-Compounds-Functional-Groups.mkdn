@@ -1,0 +1,10 @@
+## Functional Groups Tests
+
+### 1. Carboxylic Group -
+###### Add a pinch of NaHCO<sub>3</sub> (Sodium BiCarbonate) to 0.2ml of the the given organic compound into a test tube. If effervesence occurs, carboxylic group is present.
+### 2. Phenolic Group
+##### Add 0.2 ml of the given organic compound to 2-3ml of neutral FeCl<sub>3</sub> (Ferric Chloride) solution in a test tube. If green or violet color is observed, it means that a phenolic group is present.
+### 3. Carbonyl Group
+##### Shake 0.2ml of the given organic compound with 2-3ml of 2,3-dinitrophenyl hydrazine in a test tube. If an orange-yellow precipitate is found, carbonyl group is present, that may be an aldehyde or a ketone.
+### 4. Aldehydic Group
+##### Warm 1ml of the given organic compound with 1ml of Tollen's Reagent in a test-tube over a water bath. If a silver mirror is formed on the inner side of the test tube, it is an aldehyde.
