@@ -1,0 +1,192 @@
+Salt Analysis
+
+I) Physical examination
+
+a) Color - White - Copper, Ferrous, Nickel, Cobalt, Manganese ions absent.
+         - Blue - Above mentioned ions may be present.
+
+b) Smell - No specific odour - Ammonium, Sulphur, Acetate ions absent.
+         - Ammoniacal odour - Ammonium, Sulphur, Acetate ions may be present.
+         - Characteristic vinegar - Acetate ions may be present.
+
+II) Dry heating test
+
+-Heated a pinch of salt in a dry test tube
+
+a) Gas evolved - Reddish brown - Nitrate ion may be present.
+               - Yellowish white - Chlorine ion may be present.
+               - Colorless
+               -> without any specific smell - Carbonate ion may be present.
+               -> with pungent smell - Sulphur DiOxide, Sulphate may be present.
+               -> with vinegar like smell - Acetate ions may be present.
+
+
+
+b) Sublimation - no sublimate formed - Ammonium halides, Aluminum chloride may
+                 be absent.
+               - White sublimate formed - Ammonium ions, Aluminum Chloride may
+                 be present.
+
+c) Decrepitation
+-> Crackling Sound observed - Lead Nitrate, Barium Nitrate, Sodium Chloride may
+                              be present.
+-> No Crackling Sound - Lead Nitrate, Barium Nitrate, Potassium Chloride absent.
+
+d) Color of residue - Yellow - Zinc, Lead, Cadmium ions may be present.
+                    - White or no residue - Zinc, Lead, Cadmium ions absent.
+                    - White on prolonged heating - Zinc, Lead ions absent.
+                    - Black on prolonged heating - Acetate ions may be present.
+
+III) Dilute Sulphuric Acid test - treated a pinch of Salt with dilute sulphuric
+ acid
+-> No gas evolved - Carbonate, Sulphur, Sulphite absent.
+
+-> Brisk effervescence of Carbon Dioxide gas - Carbonate, Sulphur, Sulphite ions
+may be present
+
+If no gas evolved
+IV) Potassium Permanganate test - To a pinch of salt, add dilute Sulphuric Acid,
+   and a drop of Potassium Permanganate solution.
+-> If the pink color of the Potassium Permanganate solution is not discharged -
+   Chlorine, Bromine, Iodine, Ferrous ions are absent.
+-> Pink color is discharged - above mentioned ions may be present.
+
+If pink color is discharged
+V) Test for halogens (Chlorine|Bromine|Iodine) - Silver Nitrate Test
+  -Treat a pinch of salt with dilute nitric acid solution, boil, cool, and add
+   Silver Nitrate Solution.
+   -> White precipitate formed - Chlorine ion confirmed.
+
+If pink color isn't discharged
+V) Concentrated Sulphuric Acid test
+
+  -Heat a pinch of salt with concentrated Sulphuric Acid and add a pellet.
+   -> If a reddish brown gas evolves, which turns Ferrous Sulphate solution
+      black - Nitrate may be present.
+   -> If a colorless gas with vinegar like smell is evolved, acetate ions may
+      be present.
+
+If reddish brown gas
+VI) Confirmatory test for nitrate
+a) Copper Chips
+-> Heat a pinch of salt with concentrated Sulphuric acid and a few Copper chips
+   - if a reddish-brown gas is evolved - Nitrate confirmed.
+b) Brown Ring test - To 2 ml of salt solution add freshly prepared Ferrous
+   Sulphate solution. Add concentrated Sulphuric Acid along the sides of the
+   test tube carefully - If a brown ring is formed at the junction of the two
+   layers - Nitrate confirmed.
+
+If colorless gas with vinegar like smell
+VI) Confirmatory test for Acetate
+a) Oxalic acid test:
+-> In a watch glass, mix a pinch of salt with solid oxalic acid, to make a fine
+   paste. Rub the paste and smell. Vinegar like smell confirms the presence of
+   acetate ions.
+b) Ferric Chloride test:
+-> To the salt solution, add neutral Ferric Chloride solution. If a reddish
+   brown filtrate is obtained, filter it.
+i) To one part, add dilute HCl. The color should disappear
+ii) To the other part, add water and boil. A reddish brown precipitate should be
+    obtained.
+Both these tests will confirm the presence of Acetate ions.
+
+If a Carbon Dioxide is evolved in Step III
+
+IV) Confirmatory Test for Carbonate ion
+
+Treat a pinch of salt with dilute sulphuric acid, and pass the evolved gas
+through lime water - If the lime water turns milky - Carbonate confirmed
+
+VI) If dilute and concentrated sulphuric acid tests not given.
+The given salt may contain Sulphate or Phosphate radicals.
+
+-> Confirmatory test for Sulphate
+a) Barium Chloride test:
+   Treat a pinch of salt with water, and add a few drops of Barium Chloride
+   solution. If a white precipitate insoluble in dilute HCl is formed, the
+   presence of Sulphate ion is confirmed.
+b) Lead Acetate test:
+   Treat a pinch of salt with water, add Lead Acetate solution. If a white
+   precipitate soluble in excess hot ammonium acetate solution is formed,
+   presence of Sulphate confirmed.
+
+ACIDIC RADICAL DONE
+
+Basic Radical :-
+
+I) Sodium Hydroxide Test
+   Treated a pinch of salt with NaOH Solution
+   -> No smell of Ammonia - Group zero (Ammonium ion) absent.
+   -> Ammoniacal/Smell of Ammonia gas - Group zero (Ammonium ion may be present)
+
+If Ammonia is smelt
+II) Confirmatory test for Ammonium Ion
+-> Nessler's Test - Treat salt solution with a few drops of Nessler's reagent.
+If a red-brownish precipitate is formed, Ammonium ion confirmed.
+
+If Ammonium is not smelt
+
+II) Preparation of OS (Original solution)
+Dissolve a pinch of salt in water - Clear Solution obtained - labeled as OS
+
+III) Added 1 ml of dilute Hydrochloric Acid to the OS
+-> White precipitate obtained - Group I (Lead ion) present.
+-> No precipitate formed - Group I (Lead ion) absent.
+
+If Group I present
+IV) Confirmatory test for Lead ion
+    -> Add Potassium Iodide Solution to the OS - If a Yellow precipitate is
+       obtained - Lead confirmed.
+
+If Group I absent
+IV) Pass Hydrogen Sulphide gas through a part of OS
+-> No precipitate formed - Group II (Copper|Ferrous ions) absent.
+-> If a black precipitate is formed, Group II is present.
+
+If Group II present
+V) Dissolve the above precipitate in minimum quantity of Nitric acid solution,
+   add dilute Sulphuric acid and Alcohol+Ammonium Hydroxide solution in excess.
+   If a blue colored solution is obtained, Copper ions are present.
+
+VI) Confirmatory test for Copper - Potassium Ferro-cyanide Test
+-> Add some Acetic acid+Potassium Ferro-cyanide solution to a part of the above
+   blue solution. If a chocolate brown precipitate is obtained, the presence of
+   Copper ions is confirmed.
+
+If Group II absent
+V) Add a pinch of solid Ammonium Chloride to OS. Boil, cool, add excess of
+   Ammonium Hydroxide.
+-> White precipitate formed - Group III (Aluminum|Ferric ions) present.
+
+If Group III present
+VI) Confirmatory test for Aluminum ions - Lake Test
+-> To a part of above precipitate, add dilute Hydrochloric acid solution, add a
+   few drops of blue litmus solution, add Ammonium Hydroxide solution drop wise.
+   If a blue lake (blue precipitate floating in solution) is observed, presence
+   of aluminum is confirmed.
+
+If Group III absent
+VI) Pass Hydrogen Sulphide Gas through the above solution. If a white
+     precipitate is formed, Group IV (Zinc|Manganese|Nickel ions) may be
+     present. Else it may be absent.
+
+If Group IV present
+VII) Confirmatory test for Zinc
+-> Dissolve the above precipitate in dilute Hydrochloric acid solution, boil,
+   cool, and add Potassium ferro-cyanide solution. If a bluish-white precipitate
+   is formed, presence of Zinc is confirmed.
+
+If Group IV absent
+VII)
+To a part of the above solution, add ammonium carbonate solution. If a white
+precipitate is formed, Group V (Calcium|Barium ions) is present.
+
+If Group V present
+VIII) Confirmatory test for Calcium
+-> Dissolve the above obtained precipitate in hot dilute Acetic acid, add 1 ml 
+   of Ammonium oxalate solution, add Ammonium hydroxide, and scratch the sides 
+   of the test tube. If a white precipitate is obtained, presence of Calcium is
+   confirmed.
+-> Flame Test - Treat the original salt with concentrated Hydrochloric acid to
+                make a fine paste, then using platinum wire, put into a flame.
+                If a brick red color flame is obtained - Calcium confirmed.
