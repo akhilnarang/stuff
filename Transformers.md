@@ -8,7 +8,7 @@ Transformers
 - Both the windings are uniformly distributed over the two limbs of the core.
 - These windings surround a considerable portion of the core.
 - Since the windings are distrubuted on 2 limbs, natural cooling is more effective.
-- The coil can be withdrawn just by dismantlinbg laminations of the top yoke (L-Shaped).
+- The coil can be withdrawn just by dismantling laminations of the top yoke (L-Shaped).
 
 ### Shell type
 - The core of this type of transformer provides a double magnetic circuit.
@@ -78,18 +78,19 @@ I1 full load current = KVA * 1000 / V1.
 I2 full load current = KVA * 1000 / V2.
 
 ### Ideal transformer :-
-Permeability of core should be high so that less current is required to magnetise the it.
-There should be no magnetic leak, i.e. all the flux should be confined to the iron core.
-The windings should have no ohmic resistance.
-There should be no losses.
+- Permeability of core should be high so that less current is required to magnetise the it.
+- There should be no magnetic leak, i.e. all the flux should be confined to the iron core.
+- The windings should have no ohmic resistance.
+- There should be no losses.
 
 
 ### Transformer losses :-
-Copper losses = I<sub>1</sub><sup>2</sup>R<sub>1</sub>+I<sub>2</sub><sup>2</sup>R<sub>2</sub>.
-Iron/cose losses :-
- -Hysteresis losses -> P<sub>h</sub> = K<sub>h</sub>B<sub>m</sub>fV.
- -Eddy current losses -> P<sub>e</sub> = K<sub>e</sub>B<sub>m</sub><sup>2</sup>f<sup>2</sup>t<sup>2</sup>V.
- Where K<sub>h</sub> and K<sub>e</sub> are constants, B<sub>m</sub> is the max flux density, V the volume, and t the thickness of the core.
+- Copper losses = I<sub>1</sub><sup>2</sup>R<sub>1</sub>+I<sub>2</sub><sup>2</sup>R<sub>2</sub>.
+- Iron/cose losses :-
+ - Hysteresis losses -> P<sub>h</sub> = K<sub>h</sub>B<sub>m</sub>fV.
+ - Eddy current losses -> P<sub>e</sub> = K<sub>e</sub>B<sub>m</sub><sup>2</sup>f<sup>2</sup>t<sup>2</sup>V.
+
+Where K<sub>h</sub> and K<sub>e</sub> are constants, B<sub>m</sub> is the max flux density, V the volume, and t the thickness of the core.
 
 Regulation of transformer is defined as the change in secondary terminal voltage from no load to full load with primary impressed voltage V<sub>1</sub>, and the temperature of the transformer is maintained at some constant value.
 
