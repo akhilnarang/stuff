@@ -682,7 +682,7 @@ becomes very costly
 ❯ Perfect score is 1.0
 ❯ Inverse relationship between precision & recall
 ❯ F measure (F1 or F-score): harmonic mean of precision and recall,
-❯ Fß: weighted measure of precision and recall
+❯ F<sub>ß</sub>: weighted measure of precision and recall
 - assigns ß times as much weight to recall as to precision
 
 ### What is clustering
